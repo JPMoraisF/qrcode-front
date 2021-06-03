@@ -1,0 +1,11 @@
+#cards {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#card {
+    border: 2px solid rgb(201, 201, 201);
+    margin: 10px;
+}
